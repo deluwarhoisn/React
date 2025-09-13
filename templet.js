@@ -11,8 +11,15 @@
 // }
 
 // sum(1,2,3)
-const sum = (a,b,c) => {
 
-}
-const result =sum(1,2,3)
-console.log(result)
+
+
+// number-2
+
+
+// const sum = (a,b,c) => {
+
+// }
+// const result =sum(1,2,3)
+// console.log(result)
+
