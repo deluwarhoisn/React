@@ -23,7 +23,14 @@
 //  const test="babu"
 // test ? console.log("its true") : console.log("its fals");
 
-const num = 10;
-const result=(num>=10 && num<20)? "truu":
-"falsh";
-console.log(result)
+// const num = 10;
+// const result=(num>=10 && num<20)? "truu":
+// "falsh";
+// console.log(result)
+
+const isActive= falsh;
+
+const shwUser = () => console.log("show user green")
+const hidUser = () => console.log("hide user")
+
+isActive ? shwUser() : hidUser();
